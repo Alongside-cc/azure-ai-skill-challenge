@@ -4,6 +4,7 @@
 
 ### Presentation Resources
 
+- https://aka.ms/aiskillschallenge
 - [MICROSOFT LEARN - AI Skills Challenge​ - Official rules](https://www.microsoft.com/en-us/cloudskillschallenge/ai/officialrules/2024?wt.mc_id=aisc24_cloudskillschallenge_webpage_cnl)
 
 - [AI Learning Journey Poster](https://aka.ms/AILearningJourneyPoster)

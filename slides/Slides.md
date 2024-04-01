@@ -25,10 +25,8 @@ marp: true
 # About Dave
 - 30 years (!?) in I.T., starting with phone helpdesk, then roles including web dev, data analyst, & system administrator.
 - Currently teach Azure certification as a freelancer 2-3 weeks/month, plus Azure consulting
-- Taught SQL Server as an MCT since 2002, PowerShell since 2012 
 - Continuous learner and always seeking to expand my knowledge in new technologies like AI
-- Enjoy helping folks migrate to cloud & pursue their career goals
-
+- Enjoy helping folks pursue their Azure cloud career goals
 ---
 
 # Goals for Talk

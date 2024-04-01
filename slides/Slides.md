@@ -20,6 +20,8 @@ marp: true
 
 ---
 
+![bg contain right](img/dave-loki-helmet.jpg)
+
 # About Dave
 - 30 years (!?) in I.T., starting with phone helpdesk, then roles including web dev, data analyst, & system administrator.
 - Currently teach Azure certification as a freelancer 2-3 weeks/month, plus Azure consulting
@@ -42,6 +44,7 @@ marp: true
 
 - https://www.microsoft.com/en-us/cloudskillschallenge/ai/registration/2024
 ![Choose your challenge](img/4challenge.png)
+- 
 
 ---
 
@@ -71,7 +74,6 @@ marp: true
 
 PROTIP: Dive into the [Microsoft Learning Rooms](https://techcommunity.microsoft.com/t5/custom/page/page-id/learn)
 
-![bg contain right Microsoft Learn Site](img/mslearn.png)
 
 Find a study group for a an awesome cert, like AI-102
 

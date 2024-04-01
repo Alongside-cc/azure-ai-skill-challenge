@@ -1,97 +1,143 @@
 ---
 marp: true
-theme: custom-default
-footer: 'https://example.com'
+ theme: custom-dave
+ class: invert
+ footer: 'LI: davidcobb'
 ---
 
-# My Presentation
-![bg right](https://picsum.photos/800/600)
+# Azure AI Skill Challenge 2024
 
----
+## David Cobb, Azure MCT
 
-<!-- Speaker Notes -->
-## Slide 1
 
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
+
 
 ---
 
-## Slide 2
-<!-- Can also do a multiline
-comment that will show in notes -->
+# Intro
 
-![Image](https://picsum.photos/800/600)
+<button onclick="document.querySelectorAll('section').forEach((e) => e.classList.toggle('invert'))">Toggle appearance</button>
 
 ---
 
-## Slide 3
-
-> This is a quote.
-
----
-
-## Slide 4
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+# About Dave
+- 30 years (!?) in I.T., starting with phone helpdesk, then roles including web dev, data analyst, & system administrator.
+- Currently teach Azure certification as a freelancer 2-3 weeks/month, plus Azure consulting
+- Taught SQL Server as an MCT since 2002, PowerShell since 2012 
+- Continuous learner and always seeking to expand my knowledge in new technologies like AI
+- Enjoy helping folks migrate to cloud & pursue their career goals
 
 ---
 
-![bg opacity](https://picsum.photos/800/600?image=53)
-## Slide 5
+# Goals for Talk
 
-<div class="columns">
-<div>
-
-## Left
-
-- 1
-- 2
-
-</div>
-<div>
-
-## Right
-
-- 3
-- 4
-
-</div>
-</div>
+- Overview of the Azure AI Skills Challenge
+**AND** AI Learning Hub 
+- Show you steps for your customized AI learning path
+- Help you get started by plugging into community
 
 ---
 
-## Slide 6
+## AI Skills Challenge
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+- https://www.microsoft.com/en-us/cloudskillschallenge/ai/registration/2024
+![Choose your challenge](img/4challenge.png)
 
 ---
 
-# <!--fit--> Large Text
+# Choose Your Own Adventure 
+
+![bg contain right Choose a Career Path](img/ms-learn-roles.png)
 
 ---
 
-<!-- Needed for mermaid, can be anywhere in file except frontmatter -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+# What's your North Star?
 
-# Mermaid
+- Envision a destination *( for your Azure career )*
+- It will change over time, you only need it to have a direction to build momentum
+- Then answer this question daily, adjusting as needed:
 
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+---
+
+# To move toward my North Star of ___________, I'll pursue the certification for the role of _________, and my next step today is to study __[module|labs|test questions]__
+
+---
+
+
+# Study in Community!
+
+[Microsoft Learn Community](https://learn.microsoft.com/en-us/training/learn-community)
+
+
+PROTIP: Dive into the [Microsoft Learning Rooms](https://techcommunity.microsoft.com/t5/custom/page/page-id/learn)
+
+![bg contain right Microsoft Learn Site](img/mslearn.png)
+
+Find a study group for a an awesome cert, like AI-102
+
+---
+
+
+
+> To teach is to learn twice.
+
+> \- Joseph Joubert
+
+![Learning Pyramid](img/learning-pyramid-ntl.png)
+
+---
+
+# Choose the right challenge level for you right now
+- https://twitter.com/dave000777/status/1715546218930069928
+
+---
+
+
+# Calls to Action 
+
+- Consider your career north star, and how AI fits in
+- Choose a Challenge and work toward your learning goals (AI-900, AI-102, DP-100,DP-600)
+- Join the [MS Learning Rooms](https://techcommunity.microsoft.com/t5/custom/page/page-id/learn)
+- Plug into the South Florida community
+  - But where???
+  
+---
+
+# 🌴 South Florida Community Awesomeness 🌴
+
+- [Grammer Hub](https://grammerhub.org)
+- [South Florida Tech Hub](https://techhubsouthflorida.org/meetups/)
+- [South Florida SQL Server User Group](https://www.meetup.com/sfssug/) - [Call for Speakers!](https://sessionize.com/sfssug-call-for-speakers/)
+- [FloridaJS](https://www.meetup.com/floridajs/)
+- Other groups to come...
+
+### Not in South Florida? 🌴 Find an [Azure Meetup near you](https://www.meetup.com/topics/azure/)
+
+---
+# That's a Wrap
+
+I hope I provided a useful introduction to the Azure AI Skills Challenge and the AI Learning Hub.
+
+# Questions?
+
+- **Watch for discord post on Azure AI Skills Challenge Office Hours**
+
+- https://linkedin.com/in/davidcobb
+
+---
+
+
+# Credits
+
+Shoutout to the amazing Chris Ayers for his MARP template that made this markdown-to-html presentation simple to deploy.
+
+https://chris-ayers.com/2023/03/26/marp-create-presentations-with-markdown
+
+Learned so much about teaching Azure from Tim Warner, check out his YouTube channel
+[Tim's IT Straight Talk: "A Recipe to Pass any IT Certification Exam"](https://www.youtube.com/watch?v=wpPZY_KrRLo)
+
+---
+
+Thank You!
+
+---

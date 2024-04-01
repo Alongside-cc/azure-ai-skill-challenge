@@ -41,7 +41,7 @@ marp: true
 
 ## AI Skills Challenge
 
-- https://www.microsoft.com/en-us/cloudskillschallenge/ai/registration/2024
+- https://aka.ms/aiskillschallenge
 ![Choose your challenge](img/4challenge.png)
 - 
 
@@ -56,6 +56,8 @@ https://aka.ms/AILearningJourneyPoster
 
 
 # Study in Community!
+
+[Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/about/)
 
 [Microsoft Learn Community](https://learn.microsoft.com/en-us/training/learn-community)
 
